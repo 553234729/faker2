@@ -1,1 +1,6 @@
 
+version: "1"
+rules:
+  - base: master
+    upstream: shufflewzc:main    # change `wei` to the owner of upstream repo
+    mergeMethod: hardreset
