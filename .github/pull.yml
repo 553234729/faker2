@@ -1,5 +1,5 @@
 
-version: "1"
+version: "2"
 rules:
   - base: master
     upstream: shufflewzc:main    # change `wei` to the owner of upstream repo
